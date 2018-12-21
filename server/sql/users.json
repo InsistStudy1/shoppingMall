@@ -1,0 +1,1139 @@
+[
+  {
+    "_id": "5bf2963fea487622341a4489",
+    "userId": "100000077",
+    "userName": "tom",
+    "userPwd": "123456",
+    "orderList": [
+      {
+        "orderId": "6220201811221658044",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 3,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 1209,
+        "createDate": "2018-11-22 16:58:04",
+        "orderState": 1
+      },
+      {
+        "orderId": "6223201811221700541",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 3,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 1209,
+        "createDate": "2018-11-22 17:00:54",
+        "orderState": 1
+      },
+      {
+        "orderId": "6226201811221701164",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 3,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 1209,
+        "createDate": "2018-11-22 17:01:16",
+        "orderState": 1
+      },
+      {
+        "orderId": "6224201811221719446",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 3,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 1209,
+        "createDate": "2018-11-22 17:19:44",
+        "orderState": 1
+      },
+      {
+        "orderId": "6220201811221936085",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 3,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 5,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 1754,
+        "createDate": "2018-11-22 19:36:08",
+        "orderState": 1
+      },
+      {
+        "orderId": "6223201811231431137",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 8,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 3340,
+        "createDate": "2018-11-23 14:31:13",
+        "orderState": 1
+      },
+      {
+        "orderId": "6226201811231433126",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 8,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 3340,
+        "createDate": "2018-11-23 14:33:12",
+        "orderState": 1
+      },
+      {
+        "orderId": "6222201811231433263",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 8,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 3340,
+        "createDate": "2018-11-23 14:33:26",
+        "orderState": 1
+      },
+      {
+        "orderId": "6220201811231434031",
+        "addressInfo": {
+          "addressId": "100002",
+          "userName": "Tom",
+          "streetName": "东莞市樟木头小学",
+          "postCode": "100002",
+          "tel": "12345678902",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 8,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 3458,
+        "createDate": "2018-11-23 14:34:03",
+        "orderState": 1
+      },
+      {
+        "orderId": "6222201811261522036",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf20055ae845f4a94ed9e80",
+            "productId": "2017100013",
+            "productName": "Ear700",
+            "salePrice": 600,
+            "productImage": "13.jpg",
+            "productNum": 4,
+            "checked": 1
+          },
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf200aaae845f4a94ed9e83",
+            "productId": "201710016",
+            "productName": "Ear700",
+            "salePrice": 1300,
+            "productImage": "16.jpg",
+            "productNum": 2,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 5300,
+        "createDate": "2018-11-26 15:22:03",
+        "orderState": 1
+      },
+      {
+        "orderId": "6224201811261608583",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 4,
+            "checked": 1
+          },
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 3,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 1336,
+        "createDate": "2018-11-26 16:08:58",
+        "orderState": 1
+      },
+      {
+        "orderId": "6221201811261609059",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 3,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 900,
+        "createDate": "2018-11-26 16:09:05",
+        "orderState": 1
+      },
+      {
+        "orderId": "6224201811261609213",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 139,
+        "createDate": "2018-11-26 16:09:21",
+        "orderState": 1
+      },
+      {
+        "orderId": "6220201811261609430",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 489,
+        "createDate": "2018-11-26 16:09:43",
+        "orderState": 1
+      },
+      {
+        "orderId": "6222201811261833239",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 248,
+        "createDate": "2018-11-26 18:33:23",
+        "orderState": 1
+      },
+      {
+        "orderId": "6223201811261835053",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 139,
+        "createDate": "2018-11-26 18:35:05",
+        "orderState": 1
+      },
+      {
+        "orderId": "6223201811261835380",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 189,
+        "createDate": "2018-11-26 18:35:38",
+        "orderState": 1
+      },
+      {
+        "orderId": "6226201811261936260",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 4,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20099ae845f4a94ed9e82",
+            "productId": "201710015",
+            "productName": "Ear700",
+            "salePrice": 1200,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20066ae845f4a94ed9e81",
+            "productId": "2017100014",
+            "productName": "Ear700",
+            "salePrice": 700,
+            "productImage": "14.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 2220,
+        "createDate": "2018-11-26 19:36:26",
+        "orderState": 1
+      },
+      {
+        "orderId": "6220201811262050353",
+        "addressInfo": {
+          "addressId": "100004",
+          "userName": "Jone",
+          "streetName": "东莞市东莞理工学校",
+          "postCode": "100004",
+          "tel": "12345678904",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 109,
+        "createDate": "2018-11-26 20:50:35",
+        "orderState": 1
+      },
+      {
+        "orderId": "6222201811291706396",
+        "addressInfo": {
+          "addressId": "100002",
+          "userName": "Tom",
+          "streetName": "东莞市樟木头小学",
+          "postCode": "100002",
+          "tel": "12345678902",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 2,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 2,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf2038dae845f4a94ed9e85",
+            "productId": "2017100017",
+            "productName": "自拍杆",
+            "salePrice": 300,
+            "productImage": "zipai.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf1ff6dae845f4a94ed9e7e",
+            "productId": "201710009",
+            "productName": "Ear700",
+            "salePrice": 2622,
+            "productImage": "3.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 3309,
+        "createDate": "2018-11-29 17:06:39",
+        "orderState": 1
+      },
+      {
+        "orderId": "6226201812040942045",
+        "addressInfo": {
+          "addressId": "100001",
+          "userName": "JackBean",
+          "streetName": "东莞市松山湖东莞职业技术学院",
+          "postCode": "100001",
+          "tel": "12345678901",
+          "isDefault": true
+        },
+        "orderGoodsInfo": [
+          {
+            "_id": "5bf1850bae845f4a94ed9e7b",
+            "productId": "201710006",
+            "productName": "智能插板线",
+            "salePrice": 59,
+            "productImage": "6.jpg",
+            "productNum": 3,
+            "checked": 1
+          },
+          {
+            "_id": "5bf14ee2f37d9d3cc48a6f18",
+            "productId": "201710004",
+            "productName": "头戴式耳机",
+            "salePrice": 80,
+            "productImage": "2.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20366ae845f4a94ed9e84",
+            "productId": "201710018",
+            "productName": "Ear700",
+            "salePrice": 109,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf200aaae845f4a94ed9e83",
+            "productId": "201710016",
+            "productName": "Ear700",
+            "salePrice": 1300,
+            "productImage": "16.jpg",
+            "productNum": 4,
+            "checked": 1
+          },
+          {
+            "_id": "5bf155eaae845f4a94ed9e79",
+            "productId": "201710005",
+            "productName": "小米笔记本",
+            "salePrice": 3549,
+            "productImage": "note.jpg",
+            "productNum": 1,
+            "checked": 1
+          },
+          {
+            "_id": "5bf1fe23ae845f4a94ed9e7d",
+            "productId": "2017100019",
+            "productName": "Ear2000",
+            "salePrice": 2000,
+            "productImage": "11.jpg",
+            "productNum": 2,
+            "checked": 1
+          },
+          {
+            "_id": "5bf20099ae845f4a94ed9e82",
+            "productId": "201710015",
+            "productName": "Ear700",
+            "salePrice": 1200,
+            "productImage": "15.jpg",
+            "productNum": 1,
+            "checked": 1
+          }
+        ],
+        "orderTotalPrice": 14315,
+        "createDate": "2018-12-04 09:42:04",
+        "orderState": 1
+      }
+    ],
+    "cartList": [
+      {
+        "_id": "5bf14ee2f37d9d3cc48a6f18",
+        "productId": "201710004",
+        "productName": "头戴式耳机",
+        "salePrice": 80,
+        "productImage": "2.jpg",
+        "productNum": 1,
+        "checked": 1
+      },
+      {
+        "_id": "5bf1850bae845f4a94ed9e7b",
+        "productId": "201710006",
+        "productName": "智能插板线",
+        "salePrice": 59,
+        "productImage": "6.jpg",
+        "productNum": 1,
+        "checked": 1
+      }
+    ],
+    "addressList": [
+      {
+        "addressId": "100001",
+        "userName": "JackBean",
+        "streetName": "东莞市松山湖东莞职业技术学院",
+        "postCode": "100001",
+        "tel": "12345678901",
+        "isDefault": true
+      },
+      {
+        "addressId": "100002",
+        "userName": "Tom",
+        "streetName": "东莞市樟木头小学",
+        "postCode": "100002",
+        "tel": "12345678902",
+        "isDefault": false
+      },
+      {
+        "addressId": "100004",
+        "userName": "Jone",
+        "streetName": "东莞市东莞理工学校",
+        "postCode": "100004",
+        "tel": "12345678904",
+        "isDefault": false
+      },
+      {
+        "addressId": "100005",
+        "userName": "Pone",
+        "streetName": "阿里巴巴",
+        "postCode": "100005",
+        "tel": "12345678905",
+        "isDefault": false
+      }
+    ],
+    "__v": 85
+  }
+]

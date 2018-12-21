@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "5bf131097387a6d6cc5d917a",
+    "productId": "201710003",
+    "productName": "平衡车",
+    "salePrice": 1999,
+    "productImage": "pingheng.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf14ee2f37d9d3cc48a6f18",
+    "productId": "201710004",
+    "productName": "头戴式耳机",
+    "salePrice": 80,
+    "productImage": "2.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf155eaae845f4a94ed9e79",
+    "productId": "201710005",
+    "productName": "小米笔记本",
+    "salePrice": 3549,
+    "productImage": "note.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf155ebae845f4a94ed9e7a",
+    "productId": "2017100025",
+    "productName": "小米6",
+    "salePrice": 2499,
+    "productImage": "mi6.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf1850bae845f4a94ed9e7b",
+    "productId": "201710006",
+    "productName": "智能插板线",
+    "salePrice": 59,
+    "productImage": "6.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf1fdf4ae845f4a94ed9e7c",
+    "productId": "2017100012",
+    "productName": "Ear700",
+    "salePrice": 2622,
+    "productImage": "12.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf1fe23ae845f4a94ed9e7d",
+    "productId": "2017100019",
+    "productName": "Ear2000",
+    "salePrice": 2000,
+    "productImage": "11.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf1ff6dae845f4a94ed9e7e",
+    "productId": "201710009",
+    "productName": "Ear700",
+    "salePrice": 2622,
+    "productImage": "3.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf1ff88ae845f4a94ed9e7f",
+    "productId": "201710007",
+    "productName": "Ear700",
+    "salePrice": 2692,
+    "productImage": "4.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf20055ae845f4a94ed9e80",
+    "productId": "2017100013",
+    "productName": "Ear700",
+    "salePrice": 600,
+    "productImage": "13.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf20066ae845f4a94ed9e81",
+    "productId": "2017100014",
+    "productName": "Ear700",
+    "salePrice": 700,
+    "productImage": "14.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf20099ae845f4a94ed9e82",
+    "productId": "201710015",
+    "productName": "Ear700",
+    "salePrice": 1200,
+    "productImage": "15.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf200aaae845f4a94ed9e83",
+    "productId": "201710016",
+    "productName": "Ear700",
+    "salePrice": 1300,
+    "productImage": "16.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf20366ae845f4a94ed9e84",
+    "productId": "201710018",
+    "productName": "Ear700",
+    "salePrice": 109,
+    "productImage": "15.jpg",
+    "productUrl": ""
+  },
+  {
+    "_id": "5bf2038dae845f4a94ed9e85",
+    "productId": "2017100017",
+    "productName": "自拍杆",
+    "salePrice": 300,
+    "productImage": "zipai.jpg",
+    "productUrl": ""
+  }
+]
